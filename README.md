@@ -76,7 +76,7 @@
     -  Text Editing: Microsoft Office, Latex
   - Practical skills:  time management,teamwork abilities, writing, project management, critical and creative thinking, summarising, adaptability
 
-# 🤔 Extra Curricular/Vounteering
+# 🤔 Extra Curricular/Volunteering
 
 ****Executive Club Manager (01.2019–04.2020)****
   - Administered the registration of club players and oversaw set-up and take-down of equipment in weekly time slots
