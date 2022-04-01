@@ -22,7 +22,7 @@
   - ****Degree:**** Bachelor of Applied Science
   - ****Major:**** Electrical Engineering in Dept. of Electrical and Computer Engineering
   - ****Related coursework:**** Power electronics, objected oriental programming (Java), the fundamentals of logical circuit design, electronics, assembly language, microprocessorand embedded system, Biomedical image and signal Processing, Basic C language (data structure), electromagnetic, antenna design, discrete math, Sensors in Arduino platform, Continuous and discrete time signal processing, Probability, Digital signal processing, Information theory,Engineering practice and communication, Engineering economics
-  - ****Capstone project:**** A sensor framework for balanced posture and gait study
+  - ****Capstone project:**** [A Sensor Framework For Balanced Posture And Gait Study](https://github.com/Thomas-JHR/Thomas-JHR/blob/main/UndergradPro.md)
 
 # 💰 Work experience
 ### Arashi Vision Inc., Shenzhen, Guangdong, CN
