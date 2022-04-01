@@ -11,15 +11,14 @@
   - 👍 Who I am: A badminton enthusiast who is always passinate about robotics and wish to be an robotic engineer/researcher :man_scientist: in one day   
   - 😍 Hobbies: :badminton: > :ping_pong: > :man_cook: > :mountain: > :swimming_man: > :tennis: 
   - 👉 Country tag: :cn: + :canada:
-  - 🤘 Motto：More effort, more happiness
 ### 🌱 Education
-#### GRADUATE | 2020 -2022| QUEEN’S UNIVERSITY                                                                                          Kingston, ON, CA
+#### GRADUATE | 2020 -2022| QUEEN’S UNIVERSITY, KINGSTON, ON, CA
   - ****Degree:**** Master of Engineering (MENG)
   - ****Major:**** Electrical and Computer Engineering in Dept. of Electrical and Computer Engineering
   - ****Related coursework:**** Autonomous Vehicle and Navigation(ELEC 845), Data Communication(ELEC 867), Random process and probability(ELEC 861), Machine Learning and Deep learning(ELEC 825), Power Electronics(ELEC 431), Electric Machine and Control(ELEC 436)
   - ****Academic project:**** Autonomous GPS-based Marine Vessel
 
-#### UNDERGRADUATE | 2016-2020 | QUEEN’S UNIVERSITY                                                                                     Kingston, ON, CA 
+#### UNDERGRADUATE | 2016-2020 | QUEEN’S UNIVERSITY, KINGSTON, ON, CA 
   - ****Degree:**** Bachelor of Applied Science
   - ****Major:**** Electrical Engineering in Dept. of Electrical and Computer Engineering
   - ****Related coursework:**** Power electronics, objected oriental programming (Java), the fundamentals of logical circuit design, electronics, assembly language, microprocessorand embedded system, Biomedical image and signal Processing, Basic C language (data structure), electromagnetic, antenna design, discrete math, Sensors in Arduino platform, Continuous and discrete time signal processing, Probability, Digital signal processing, Information theory,Engineering practice and communication, Engineering economics
