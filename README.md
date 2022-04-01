@@ -49,10 +49,17 @@
   - Group assignment of designing a prosthetic arm of adult males over the age of 46 for QU Biomedical Consulting.
   - Both calculation of energy requirement and tension in the synthetic bicep and measurement from the demographic done in MATLAB.
   - The analysis conducted for characteristic of the synthetic model and recommended materials for the arm.
+ 
 ****Fuselage jig design****
   - Group jig design of creating an apparatus serving the purpose of securing small aircraft modelii.
   - Fuselage jig analysis, including graphic design in Solid Edge, construction process and solution, material selection and solution evaluation
+![1](https://user-images.githubusercontent.com/45107735/161341506-72432111-3941-40ce-ade2-08d78e5ee182.JPG)
+
 ****3D Scanner/ 3D Drawer****
+  - Different method of scanning an object by combination of at least one distance sensors
+  - MATLAB & Arduino Code for different methods to display the object in the Figure
+              ![3](https://user-images.githubusercontent.com/45107735/161341622-e9ea08f7-faf8-4940-9a3b-6558f1ae2dad.JPG)
+
 ****Biomedical image and singal processing****
 # 💥 Language
 # 🎃 Professional skills
