@@ -16,7 +16,7 @@
   - ****Degree:**** Master of Engineering (MENG)
   - ****Major:**** Electrical and Computer Engineering in Dept. of Electrical and Computer Engineering
   - ****Related coursework:**** Autonomous Vehicle and Navigation(ELEC 845), Data Communication(ELEC 867), Random process and probability(ELEC 861), Machine Learning and Deep learning(ELEC 825), Power Electronics(ELEC 431), Electric Machine and Control(ELEC 436)
-  - ****Academic project:**** Autonomous GPS-based Marine Vessel
+  - ****Academic project:**** [Autonomous GPS-based Marine Vessel](https://github.com/Thomas-JHR/Unmanned-Surface-Vessel-Studies)
 
 ### UNDERGRADUATE | 2016-2020 | QUEEN’S UNIVERSITY, KINGSTON, ON, CA 
   - ****Degree:**** Bachelor of Applied Science
@@ -58,12 +58,36 @@
 ****3D Scanner/ 3D Drawer****
   - Different method of scanning an object by combination of at least one distance sensors
   - MATLAB & Arduino Code for different methods to display the object in the Figure
-              ![3](https://user-images.githubusercontent.com/45107735/161341622-e9ea08f7-faf8-4940-9a3b-6558f1ae2dad.JPG)
+![3](https://user-images.githubusercontent.com/45107735/161341622-e9ea08f7-faf8-4940-9a3b-6558f1ae2dad.JPG)
 
-****Biomedical image and singal processing****
+****[Biomedical image and singal processing](https://github.com/Thomas-JHR/Biomedical-Image-and-Signal-Processing)****
+  - Use basic features detection mechanisms containing edge detectors and corner detectors in two dimensional images datasets
+  - Spatial Domain Processing to analyze image characteristics and improve image quality
+  - Analyze ECG signals to detect features such as heart rate intervals and QRS-complex
+  - Implement artifacts-removal/filtering and power-spectrum in ECG
 # 💥 Language
-# 🎃 Professional skills
+  - Mandarin: Native
+  - Cantanese: Native
+  - English: Advanced 
+# 🎃 Skills
+  - Professional skills:
+    -  Circuit design and simulation: LT Spice, PSIM, Circuit design in protoboard and the use of oscilloscope function generator, Advanced Design System 
+    -  Programming: MATLAB, Simulink, Python, Tensorflow, Arduino, C language
+    -  Text Editing: Microsoft Office, Latex
+  - Practical skills:  time management,teamwork abilities, writing, project management, critical and creative thinking, summarising, adaptability
+
 # 🤔 Extra Curricular/Vounteering
+
+****Executive Club Manager (01.2019–04.2020)****
+  - Administered the registration of club players and oversaw set-up and take-down of equipment in weekly time slots
+  - Maintain order for the club operation depending on safety protocols in the Department of Athletes and Recreational Centre
+  - Reached out to badminton enthusiasts using social media apps to promote the club and the activities and promote the badminton club size over 200          club members
+    
+****Engineering Team Assistant (08.2019)****
+  - Give some technical supports to the engineering design university team from Switzerland to assist their capstone project, Smart Guidance and         Resonance LED (NOX)
+  - Computing marketing and financial analysis for the electronic device and components in electronics market in China
+  - Help the team realize electrical circuits testing, Arduino programming, technical drawings, and the project prototyping
+
 
 
 
