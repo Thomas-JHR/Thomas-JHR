@@ -55,15 +55,16 @@
   - Fuselage jig analysis, including graphic design in Solid Edge, construction process and solution, material selection and solution evaluation
 
 <p align="center">
- <img src="https://github.com/Thomas-JHR/Thomas-JHR/blob/main/Jig.JPG">
+ <img src="https://github.com/Thomas-JHR/Thomas-JHR/blob/main/Jig.JPG" width=50% height=50%>
 </p>  
 ****3D Scanner/ 3D Drawer****
   - Different method of scanning an object by combination of at least one distance sensors
-  - MATLAB & Arduino Code for different methods to display the object in the Figure
+  - MATLAB & Arduino Code for different methods to display the object in the Figure below
  
 <p align="center">
- <img src="https://github.com/Thomas-JHR/Thomas-JHR/blob/main/Scanner.JPG">
+ <img src="https://github.com/Thomas-JHR/Thomas-JHR/blob/main/Scanner.JPG" width=40% height=40% >
 </p>  
+
 ****[Biomedical image and singal processing](https://github.com/Thomas-JHR/Biomedical-Image-and-Signal-Processing)****
   - Use basic features detection mechanisms containing edge detectors and corner detectors in two dimensional images datasets
   - Spatial Domain Processing to analyze image characteristics and improve image quality
@@ -85,10 +86,10 @@
 ****Executive Club Manager (01.2019–04.2020)****
   - Administered the registration of club players and oversaw set-up and take-down of equipment in weekly time slots
   - Maintain order for the club operation depending on safety protocols in the Department of Athletes and Recreational Centre
-  - Reached out to badminton enthusiasts using social media apps to promote the club and the activities and promote the badminton club size over 200          club members
+  - Reached out to badminton enthusiasts using social media apps to promote the club and the activities and promote the badminton club size over 200 club members
     
 ****Engineering Team Assistant (08.2019)****
-  - Give some technical supports to the engineering design university team from Switzerland to assist their capstone project, Smart Guidance and         Resonance LED (NOX)
+  - Give some technical supports to the engineering design university team from Switzerland to assist their capstone project, Smart Guidance and Resonance LED (NOX)
   - Computing marketing and financial analysis for the electronic device and components in electronics market in China
   - Help the team realize electrical circuits testing, Arduino programming, technical drawings, and the project prototyping
 
