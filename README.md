@@ -53,15 +53,15 @@
 ****Fuselage jig design****
   - Group jig design of creating an apparatus serving the purpose of securing small aircraft modelii.
   - Fuselage jig analysis, including graphic design in Solid Edge, construction process and solution, material selection and solution evaluation
- <center>
+
 ![1](https://user-images.githubusercontent.com/45107735/161341506-72432111-3941-40ce-ade2-08d78e5ee182.JPG)
- </center>
+ 
 ****3D Scanner/ 3D Drawer****
   - Different method of scanning an object by combination of at least one distance sensors
   - MATLAB & Arduino Code for different methods to display the object in the Figure
-  <center>
+
 ![3](https://user-images.githubusercontent.com/45107735/161346180-d48e0720-4ac9-45d2-ba11-ac3d1f504e49.JPG)
- </center>
+
 ****[Biomedical image and singal processing](https://github.com/Thomas-JHR/Biomedical-Image-and-Signal-Processing)****
   - Use basic features detection mechanisms containing edge detectors and corner detectors in two dimensional images datasets
   - Spatial Domain Processing to analyze image characteristics and improve image quality
