@@ -1,4 +1,4 @@
-### A sensor framework for balanced posture and gait study ####
+## A sensor framework for balanced posture and gait study ####
 ****Purpose:****
 
   - model the client posture in the application platform called Unity by building a constructive algorithm in Visual Studio, followed by producing a smartly sensory system on the device in order to help the client to relieve the pain from the posture adjustment
@@ -24,7 +24,6 @@
 ****Results:****
 
   - The team used the Kinect sensor to find the horizontal symmetry, and used the Arduino IDE to identify the center of gravity. The Unity programming platform is acted as a user interface to show three-dimensional image data and data interpretation.
-  - 
 <p align="center">
  <img src=https://github.com/Thomas-JHR/Thomas-JHR/blob/main/Simulation_Clip.JPG width=85% height=85%>
 </p> 
