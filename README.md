@@ -57,6 +57,7 @@
 <p align="center">
  <img src="https://github.com/Thomas-JHR/Thomas-JHR/blob/main/Jig.JPG" width=70% height=70%>
 </p>  
+
 ****3D Scanner/ 3D Drawer****
   - Different method of scanning an object by combination of at least one distance sensors
   - MATLAB & Arduino Code for different methods to display the object in the Figure below
